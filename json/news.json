@@ -1,0 +1,40 @@
+{
+   "news": [
+      {
+         "img": "img/blog/image.jpg",
+         "title": "Aenean massa",
+         "date": "March 20",
+         "text": "Lorem ipsum dolor sit amet, consectetuer Lorem ipsum"
+      },
+      {
+         "img": "img/blog/image.jpg",
+         "title": "Aenean massa",
+         "date": "March 11",
+         "text": "Lorem ipsum dolor sit amet, consectetuer"
+      },
+      {
+         "img": "img/blog/image.jpg",
+         "title": "Aenean massa",
+         "date": "March 21",
+         "text": "Lorem ipsum dolor sit amet, consectetuer Lorem ipsum dolor sit amet, consectetuer"
+      },
+      {
+         "img": "img/blog/image.jpg",
+         "title": "Aenean massa",
+         "date": "March 18",
+         "text": "Lorem ipsum dolor sit amet, consectetuer Lorem ipsumdolor sit amet, consectetuer dolor sit amet, consectetuer"
+      },
+      {
+         "img": "img/blog/image.jpg",
+         "title": "Aenean massa",
+         "date": "March 17",
+         "text": "Lorem ipsum dolor sit amet, consectetuer Lorem ipsum"
+      },
+      {
+         "img": "img/blog/image.jpg",
+         "title": "Aenean massa",
+         "date": "March 8",
+         "text": "Lorem ipsum dolor sit amet, consectetuer Lorem ipsum dolor"
+      }
+   ]
+}
